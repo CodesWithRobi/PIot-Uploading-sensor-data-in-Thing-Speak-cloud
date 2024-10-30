@@ -137,6 +137,7 @@ Serial.print(humidity);
 }
 ```
 # CIRCUIT DIAGRAM:
+![Screen Shot 2024-10-30 at 09 07 45](https://github.com/user-attachments/assets/c03e3938-3110-4dbd-adf8-2b47cf07a998)
 
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/eb1cf747-671d-4840-b4e8-71d58c188d7b)
