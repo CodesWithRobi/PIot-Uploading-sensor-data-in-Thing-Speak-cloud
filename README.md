@@ -73,7 +73,7 @@ Automatically act on your data and communicate using third-party services like T
 
 
 # PROGRAM:
-```
+```C
 #include "ThingSpeak.h"
 #include <WiFi.h>
 #include "DHT.h"
